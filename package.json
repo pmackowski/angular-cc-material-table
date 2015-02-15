@@ -1,0 +1,27 @@
+{
+  "author": "pmackowski <pmackowski@coffeecode.pl>",
+  "name": "angular-cc-material-table",
+  "version": "0.0.0",
+  "license": "MIT",
+  "description": "Angular table for material design",
+  "homepage": "https://github.com/pmackowski/angular-cc-material-table",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "~3.4.4",
+    "grunt": "~0.4.1",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-cssmin": "~0.7.0",
+    "grunt-contrib-jshint": "~0.7.0",
+    "grunt-contrib-less": "~0.8.1",
+    "grunt-contrib-uglify": "~0.2.5",
+    "grunt-karma": "~0.10.0",
+    "karma-ng-html2js-preprocessor": "^0.1.2"
+  },
+  "scripts": {
+      "test": "grunt test"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/pmackowski/angular-cc-material-table.git"
+  }
+}
